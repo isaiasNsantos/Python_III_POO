@@ -1,5 +1,5 @@
 '''
-1- método de classe utilia parâmetro referente a classe
+1- método de classe utiliza parâmetro referente a classe
 2- método de classe pode acessar ou modificar o estado da classe
 3- método o decorator @classmethod para criar um método de classe
 
